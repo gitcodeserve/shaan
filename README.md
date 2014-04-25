@@ -1,2 +1,2 @@
-HTML 5 Event listerner Example !
+HTML 5 Sever Sent Event (SSE) listerner Example !
 ========
